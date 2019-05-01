@@ -15,7 +15,7 @@ namespace MyApp
             };
             string text = args[1];
             var filler = new StringFiller();
-            string output = filler.GetString(Gettysburg_long, 30_000);
+            string output = filler.GetString(Gettysburg_long, 10_000);
             Console.WriteLine(output.ToString());
         }
 
