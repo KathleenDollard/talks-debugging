@@ -1,0 +1,15 @@
+X Data not in the database.
+X Foreground color same as background color.
+  UI formatting error.
+X An exception happened.
+X Authorization problem.
+X Field cleared after it gets properly populated.
+X Field populated with wrong data.
+X Data is all spaces.
+X Issue with data binding.
+X Database or network issues.
+X Data copy issue.
+  Data could not be converted.
+X Code not being executed.
+X Data lost in transit. Controller vs View.
+
