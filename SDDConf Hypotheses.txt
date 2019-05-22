@@ -1,0 +1,24 @@
+  x  view variable empty  
+  x  validation failed
+  x  data is missing from database 
+  x  can't connect to the database
+  something is in front of it
+  x  browser specific issue
+  x  missing data binding
+  value is outside of the visual area
+  the forecolor is the same as the background color
+  x  user didn't fill the data 
+  x  data wasn't copied into the view model
+  x  data was meant to be missing
+  x ? is there something in the log files
+  x  permissions 
+  x  typo in the variable
+  x  caching problem
+  x  selecting data from database is bad
+  invalid characters in the data
+  x  transient network errors
+
+
+  
+
+  

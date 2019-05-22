@@ -11,7 +11,7 @@ namespace MyAppTests
         [TestMethod]
         public void ShortInShortOut()
         {
-            string text = "Hello";
+            var text = "Hello";
             var length = 10;
             var filler = new StringFiller();
             var output = filler.GetString(text, length);
@@ -21,7 +21,7 @@ namespace MyAppTests
         [TestMethod]
         public void LongInLongOut()
         {
-            string text = Gettysburg_long;
+            var text = Gettysburg_long;
             var length = 10_000;
             var filler = new StringFiller();
             var output = filler.GetString(text, length);

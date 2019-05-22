@@ -1,0 +1,20 @@
+
+X   The query isn't returning the data
+
+X   The data isn't in the database
+
+X   It's not copied to the model
+
+   The font color is the same as the background color
+
+   Formatting problem between the database and the UI
+
+   There's a masking problem
+
+X   Data binding problem
+
+X   Database connectivity problem
+
+   Not running the client code
+
+X   It was never input
