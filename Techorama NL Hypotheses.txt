@@ -1,0 +1,17 @@
+x Value not in the database (Address doesn't have a postal code)
+x Binding to the wrong parameter
+Forground and background colors are the same
+Validation
+x Missing in results from server
+Formatting errors
+x Authorization problem - user doesn't have permissions
+x Data mapping is not correct
+x Users on the wrong form
+x Data is coming from the wrong database
+x Is the field supposed to be visible
+Renderer for the field isn't working
+x Users hasn't scrolled down far enough
+
+
+
+
